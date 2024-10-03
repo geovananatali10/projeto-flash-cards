@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Filmes',
+    'Em que filme da Disney ha um candelabro chamado lumiere?',
+    'A bela e a fera'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Filmes ',
+    'Qual o nome do protagonista do filme "Rei Leão"?',
+    'Simba'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Filmes',
+    'Qual e o nome da princesa no filme "A bela e adormecida"?',
+    'Aurora'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Filmes ',
+    'Qual o nome do dragão que acompanha a personagem mulan?',
+    'Mushu'
 )
