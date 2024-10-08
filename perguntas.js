@@ -21,3 +21,33 @@ criaCartao(
     'Qual o nome do dragão que acompanha a personagem mulan?',
     'Mushu'
 )
+criaCartao(
+    'Filmes',
+    'Qual foi o primeiro filme da Disney?',
+    'Pinocchio'
+)
+criaCartao(
+    'Filmes',
+    'Quem foi a primira pincesa da Disney?',
+    'Branca de neve'
+)
+criaCartao(
+    'Filmes',
+    'Qual foi o primeiro live action da disney?',
+    'O livro da selva'
+)
+criaCartao(
+    'Filmes',
+    '"Marvel" e da disney?',
+    'Sim '
+)
+criaCartao(
+    'Filmes',
+    'Quantos anos tinha cinderela quando se casou?',
+    '19'
+)
+criaCartao(
+    'Filmes',
+    'Qual o apelido de aurora?',
+    'Bela adormecida'
+)
